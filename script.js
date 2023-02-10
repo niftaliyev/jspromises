@@ -14,12 +14,9 @@ async function main() {
 
     // //// Promise
     try {
-        newFunctionOneAsync('one.js');
-        console.log('everything');
-        newFunctionTwoAsync('two.js');
-        newFunctionThreeAsync('three.js');
+        //somethin
     } catch (error) {
-        console.error(error); 
+        // error 
     }
 
     // //// callback
